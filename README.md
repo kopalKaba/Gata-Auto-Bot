@@ -15,7 +15,7 @@ Automation bot for Gata Data Verification Agent (DVA) tasks. This bot helps auto
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/Gata-Auto-Bot.git
+git clone https://github.com/kopalKaba/Gata-Auto-Bot.git
 cd Gata-Auto-Bot
 ```
 
